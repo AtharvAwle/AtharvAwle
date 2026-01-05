@@ -10,9 +10,7 @@ My interests sit at the intersection of **software engineering, machine learning
 Over time, I’ve worked across **full-stack development, backend logic, databases, and ML-based systems**, and I’m now deliberately focusing on **AI-driven software engineering** — where models, code, and real-world constraints meet.
 
 Right now, I’m sharpening my fundamentals, building deeper technical projects, and preparing for **full-time roles where learning fast and taking ownership actually matters**.
-
 ---
-
 ## 🔍 What I’m Currently Focused On
 
 - Strengthening **AI/ML fundamentals** and applied model building  
