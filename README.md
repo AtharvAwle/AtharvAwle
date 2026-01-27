@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Atharv Awle
 
 🧑🏻‍💻 Final-year **Information Technology engineering student** at **Ramrao Adik Institute of Technology**  
-🚀 **Software Development Intern** at Willpro Technologies & Systems | Aspiring **AI Engineer**
+🚀 Aspiring **AI Engineer**
 
 I enjoy building things that *actually work* — not just demos or assignments.
 
